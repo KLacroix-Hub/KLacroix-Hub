@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Kévin Lacroix
 - 👀 I’m interested in Front-end, Back-end, and web 3.0 dev
-- 🌱 I’m currently learning React, Shopify, Vue et three.js 
+- 🌱 I’m currently learning React and Shopify
 - 💞️ I’m looking to collaborate on multiple projects idea
 - 📫 How to reach me kevin@gaveandco.com
 
