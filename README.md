@@ -1,7 +1,8 @@
 - 👋 Hi, I’m Kévin Lacroix
-- 👀 I’m interested in Front-end, Back-end, and web 3.0
-- 🌱 I’m currently learning React and Shopify
-- 💞️ I’m looking to collaborate on multiple projects idea
+- 👀 I’m a FullStack dev, focus on FrontEnd tech.
+- 🌱 I’m currently working on React/Redux et Express/Node.js
+- I've working on Wordpress and React for 2 years.
+- 💞️ I’m looking to collaborate on multiple projects ideas
 - 📫 How to reach me kevin@gaveandco.com
 
 <!---
